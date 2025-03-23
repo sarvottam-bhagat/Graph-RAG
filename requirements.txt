@@ -1,0 +1,9 @@
+streamlit
+neo4j
+langchain
+langchain-google-genai
+python-dotenv
+pyvis
+networkx
+plotly
+pandas
